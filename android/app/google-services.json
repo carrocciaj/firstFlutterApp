@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315060067666",
+    "project_id": "myfisrtapp-jc-1450",
+    "storage_bucket": "myfisrtapp-jc-1450.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315060067666:android:f330b5dba227ac4567ee8b",
+        "android_client_info": {
+          "package_name": "com.josh.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQwW-Qge78R0nRbUutZWYGx_rARmn244k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
